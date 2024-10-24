@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(148, 244, 148);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center    ;
+
+}
+.main-heading {
+    text-align: center;
+    margin-top: 90px;
+    
+    
+}
+.image{
+    width: 600px;
+    height: 300px;
+    border: 2px solid black;
+} 
+img {
+    width: 600px;
+    height: 300px;
+    object-fit: cover;
+}
+p {
+    font-size: 10.5px;
+    font-weight: 900;
+    margin-top: -.5px;
+}
+.info {
+    width: 600px;
+    background-color: rgb(99, 193, 99);
+    height: 1200px;
+    margin-top: 30px;
+}
+.abc{
+    color: white;
+    text-align: center;
+}
+.abc2{
+    color:blue;
+}
